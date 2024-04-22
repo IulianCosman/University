@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70e6c501-7820-40f2-b558-773d653d125c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Compositekeys/PatientDoctorKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/ConsultationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/ConsultationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/DoctorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/DoctorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/MedicationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/MedicationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/PaperCardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/PaperCardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/SurgeryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/SurgeryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Cabinet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Cabinet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Consultation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Consultation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Disease.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Disease.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/ECard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/ECard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/HealthCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/HealthCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Medication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Medication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/PaperCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/PaperCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Specialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Specialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/Surgery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Surgery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory/ECardFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/ECardFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factory/PaperCardFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/PaperCardFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observers/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Observers/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/CabinetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/CabinetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/ConsultationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/ConsultationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/DiseaseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/DiseaseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/DoctorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/DoctorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/ECardRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/ECardRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/HospitalRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/HospitalRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/MedicationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/MedicationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/PaperCardRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/PaperCardRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/PatientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/PatientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/SpecializationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/SpecializationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/SurgeryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Repository/SurgeryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/CabinetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/CabinetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/ConsultationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/ConsultationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/DiseaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/DiseaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/DoctorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/DoctorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/ECardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/ECardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/HospitalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/HospitalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/MedicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/MedicationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/PaperCardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/PaperCardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/PatientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/SpecializationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/SpecializationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service/SurgeryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service/SurgeryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Test3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fSQymZsbdoqjf3AbCWF8VDmy3Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e6c501-7820-40f2-b558-773d653d125c" name="Changes" comment="" />
+      <created>1713792256444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713792256444</updated>
+      <workItem from="1713792259243" duration="7000" />
+      <workItem from="1713792375321" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
