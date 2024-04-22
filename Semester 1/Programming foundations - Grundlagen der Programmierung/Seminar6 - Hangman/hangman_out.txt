@@ -1,0 +1,12 @@
+s
+s _ _ _ _ _ s _
+u
+s u _ _ _ _ s _
+r
+s u r _ r _ s _
+p
+s u r p r _ s _
+i
+s u r p r i s _
+e
+s u r p r i s e

@@ -1,0 +1,7 @@
+# ninja log v5
+20	108	7341091464933483	CMakeFiles/Set.dir/Set/Set.cpp.obj	ec9f749bd7a4f5d7
+13	109	7341091464953499	CMakeFiles/Set.dir/Set/ShortTest.cpp.obj	955eaa8bc9c6d346
+27	142	7341091465293473	CMakeFiles/Set.dir/Set/SetIterator.cpp.obj	cdb054cb3481dfe3
+7	384	7341091467663329	CMakeFiles/Set.dir/Set/App.cpp.obj	db49265e0a52bd08
+0	420	7341091468012297	CMakeFiles/Set.dir/Set/ExtendedTest.cpp.obj	c8c40d5505ee6750
+420	568	7341091469502353	Set.exe	e73193b387183a01

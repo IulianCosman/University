@@ -1,0 +1,26 @@
+//pre: other is a set
+//post: returns true is the sets are equal, otherwise false
+sub_algorithm equal(Set &other) is:
+    if nrElems != other.nrElems or cap != other.cap then:
+        return false;
+    end-if
+    
+    int found=0;
+
+    for i<-0,i<-nrElems,i++ execute:
+        for j<-0,j<-other.nrElems,j++ execute:
+            if set_array[i] == other.set_array[j] then:
+                found++;
+            end-if
+        end-for
+    end-for
+
+    if found == nrElems:
+        return true;
+    end-if
+
+    return false;
+
+end-sub_algorithm
+
+

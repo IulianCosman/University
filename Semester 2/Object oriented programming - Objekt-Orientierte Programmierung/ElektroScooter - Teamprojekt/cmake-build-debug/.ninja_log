@@ -1,0 +1,31 @@
+# ninja log v5
+775	954	7078985269851009	L5_Teambcc.exe	932563395dd2771d
+604	1380	7079010386347141	CMakeFiles/L5_Teambcc.dir/Domain.cpp.obj	32d0457a0fc79141
+602	2167	7079010394227805	CMakeFiles/L5_Teambcc.dir/Controller.cpp.obj	993e2fdb05c7fd64
+187	1944	7079027281882697	CMakeFiles/L5_Teambcc.dir/main.cpp.obj	f91f4a83b0afd3cd
+621	1810	7079010390628523	CMakeFiles/L5_Teambcc.dir/UI.cpp.obj	4c8f45ef24fc4d32
+616	1981	7079010392351836	CMakeFiles/L5_Teambcc.dir/Tests.cpp.obj	553af38d19b62915
+625	1812	7079010390664139	CMakeFiles/L5_Teambcc.dir/InMemory_Repository.cpp.obj	eb549e767712b5fe
+630	1922	7079010391761736	CMakeFiles/L5_Teambcc.dir/CSV_Repository.cpp.obj	e56927062752708b
+1	295	7341109632005245	build.ninja	427794bce47ac5dc
+10	278	7079476909969588	L5_Teambcc_autogen/timestamp	3f79ccc7604970b
+10	278	7079476909969588	L5_Teambcc_autogen/mocs_compilation.cpp	3f79ccc7604970b
+288	2335	7079476930525958	CMakeFiles/L5_Teambcc.dir/Electric_Scooter_details_dialog.cpp.obj	6e3603f5746e5cc5
+594	2974	7079010402313486	CMakeFiles/L5_Teambcc.dir/L5_Teambcc_autogen/mocs_compilation.cpp.obj	e0d43a5322ece178
+255	2560	7079475682690203	CMakeFiles/L5_Teambcc.dir/Electric_scooter_Gui.cpp.obj	d8d2da5be5ed6287
+2335	2712	7079476934239261	bin/L5_Teambcc.exe	6011e84a4b6c5993
+18	2038	7341109788399154	L5_Teambcc_autogen/timestamp	30c7e63ac256cb8f
+18	2038	7341109788399154	L5_Teambcc_autogen/mocs_compilation.cpp	30c7e63ac256cb8f
+18	2038	7341109788399154	C:/Users/home/Desktop/University Projects/Semester 2/Object oriented programming - Objekt-Orientierte Programmierung/ElektroScooter - Teamprojekt/cmake-build-debug/L5_Teambcc_autogen/timestamp	30c7e63ac256cb8f
+18	2038	7341109788399154	C:/Users/home/Desktop/University Projects/Semester 2/Object oriented programming - Objekt-Orientierte Programmierung/ElektroScooter - Teamprojekt/cmake-build-debug/L5_Teambcc_autogen/mocs_compilation.cpp	30c7e63ac256cb8f
+2062	3785	7341109810575485	CMakeFiles/L5_Teambcc.dir/Domain.cpp.obj	c8e99fa8f2b3c60b
+2125	4749	7341109820217015	CMakeFiles/L5_Teambcc.dir/InMemory_Repository.cpp.obj	813e32dfc15e23ed
+2152	4829	7341109821036840	CMakeFiles/L5_Teambcc.dir/UI.cpp.obj	fefa5a17db5abc92
+2173	5031	7341109823065584	CMakeFiles/L5_Teambcc.dir/CSV_Repository.cpp.obj	f5c8c70922db11
+2189	5270	7341109825443819	CMakeFiles/L5_Teambcc.dir/Tests.cpp.obj	35644172a132b514
+2051	5641	7341109829156046	CMakeFiles/L5_Teambcc.dir/Controller.cpp.obj	d2e49506922d81b
+2087	7020	7341109842949264	CMakeFiles/L5_Teambcc.dir/Electric_Scooter_details_dialog.cpp.obj	39664756ae4f9d3d
+2074	7691	7341109849659064	CMakeFiles/L5_Teambcc.dir/main.cpp.obj	19ca16c611d92d1c
+2039	7709	7341109849844331	CMakeFiles/L5_Teambcc.dir/L5_Teambcc_autogen/mocs_compilation.cpp.obj	4383799981dac3ab
+2101	8178	7341109854522177	CMakeFiles/L5_Teambcc.dir/Electric_scooter_Gui.cpp.obj	d0d5472592db631c
+8179	8804	7341109860696723	bin/L5_Teambcc.exe	6011e84a4b6c5993

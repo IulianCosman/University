@@ -1,0 +1,5 @@
+C:/Users/home/Desktop/University Projects/Semester 2/Object oriented programming - Objekt-Orientierte Programmierung/ElektroScooter - Teamprojekt/cmake-build-debug/CMakeFiles/L5_Teambcc.dir
+C:/Users/home/Desktop/University Projects/Semester 2/Object oriented programming - Objekt-Orientierte Programmierung/ElektroScooter - Teamprojekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/home/Desktop/University Projects/Semester 2/Object oriented programming - Objekt-Orientierte Programmierung/ElektroScooter - Teamprojekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/home/Desktop/University Projects/Semester 2/Object oriented programming - Objekt-Orientierte Programmierung/ElektroScooter - Teamprojekt/cmake-build-debug/CMakeFiles/L5_Teambcc_autogen_timestamp_deps.dir
+C:/Users/home/Desktop/University Projects/Semester 2/Object oriented programming - Objekt-Orientierte Programmierung/ElektroScooter - Teamprojekt/cmake-build-debug/CMakeFiles/L5_Teambcc_autogen.dir

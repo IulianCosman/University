@@ -1,0 +1,66 @@
+a
+A A W W W W W D D W W W D D W W D D W W W S S S A A W W W 
+b
+W W W A A W W W A A W W W D D S S S W W W W W D D W W D D W W 
+c
+W W W S S S A A W W W W W D D W W W 
+d
+W W W S S S A A W W W W W A S S S S D S S 
+e
+W W W S S S A A W W W D D W W W S S S A A W W D D W W W 
+f
+A A W W D D W W S S A A W W W D D W W W 
+g
+A A W W W W W D D W W W D D F W W G A A S S W W A A S S S D D S S S 
+h
+A A W W W W W S S D D W W W D D W W W S S S S S 
+i
+F W G D D S S S F S G S A A F W G 
+j
+A A W W S S D D W W W A A W W W W W 
+k
+A A W W W A S S S S W W W W D W W S S D W W W 
+l
+A A W W W W W S S S S S D D W W W 
+m
+A A W W W W W D D W W D D W W W W W S S S S S A A W W D D W W W W W 
+n
+A A W W W W W S A S S S S D W W W W S S S S S 
+o
+W W W A A W W W W W A A W W W A A W W W W W 
+p
+A A W W W W W D D W W W D D W W D D W W W 
+q
+W W W S S S A A W W W W W A A S S S A A W W W W W A W S S 
+r
+A A W W W W W D D W W W D D W W D D W W W D S S S S 
+s
+W W W A A W W D D S S S A A W W W D D W W W 
+t
+F W W G A A W W W W W D D S S W W W W 
+u
+A A W W W W W S S S S S D D W W W D D S S S S S 
+v
+A A F W G W W W W S S S S A S S D D W W A W W W W 
+w
+A A W W W W W S S S S S D D W W D D S S S S S W W W W W D D S S D D W W W W W 
+x
+A A W D W W W W A W S D S S A A S S D S W A W W W W D W 
+y
+F W W A A G W W W D W W W S S S A A W W W 
+z
+W W W S S S A A W D W W W W A W D D S S S 
+?
+F W W G A A W F W G W A A S D D W W A A W W 
+!
+F W W G A A W F W G W W W 
+\
+F W W W G 
+.
+F W G W A A W A A W A A W 
+
+
++
+A A W W W W S S A A W W S S S S 
+-
+W W S A A D A A W W W S S F W W W W W G W W 

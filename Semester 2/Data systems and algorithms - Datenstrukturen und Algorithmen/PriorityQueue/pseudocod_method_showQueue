@@ -1,0 +1,14 @@
+// pre: pq is a queue
+// post: the elements of the priority queue are displayed without the use of iteration
+sub_algorithm showQueue() is:
+    PriorityQueue temp(this->r);
+    while this->head != NULLPTR do:
+        Element data = this->pop();
+        write data.first, data.second;
+        temp.push(data.first, data.second);
+    end-while
+    while temp.head != nullptr do:
+        this->push(temp.head->data.first, temp.head->data.second);
+        temp.pop();
+    end-while
+end-sub_algorithm

@@ -1,0 +1,58 @@
+// pre: b is a bag
+// post: returns true if the element with the maximum frequency was deleted, false if the bag was empty
+sub_algorithm removeMaxFreq() is:
+    if nrElems == 0 then:
+        return false;
+    else:
+        int maxFreq = 0;
+        int maxPos = -1;
+        TElem *freq = new TElem[nrElems];
+        for i<-0, i<-nrPos, i++ execute:
+            freq[pos[i]] = 0;
+        end-for
+        for i<-0, i<-nrPos, i++ execute:
+            freq[pos[i]]++;
+        end-for
+        for i<-0, i<-nrElems, i++ execute:
+            if freq[i] > maxFreq then:
+                maxFreq = freq[i];
+                maxPos = i;
+            end-if
+        end-for
+        TElem *temporary = new TElem[capPos];
+        int index = 0;
+        for int i<-0, i<-nrPos, i++ execute:
+            if pos[i] == maxPos then:
+                i++;
+            else:
+                temporary[index] = pos[i];
+                index++;
+            end-if
+        end-for
+        delete pos;
+        pos = temporary;
+        nrPos = index;
+        TElem *temp = new TElem[capElems];
+        for int i<-0, i<-maxPos, i++ execute:
+            temp[i] = elems[i];
+        end-for
+        for int i<-maxPos+1, i<-nrElems, i++ execute:
+            temp[i-1] = elems[i];
+            for j<-0, j<-nrPos, j++ execute:
+                if pos[j] == i then:
+                    pos[j]--;
+                end-if
+            end-for
+        end-for
+        delete elems;
+        elems = temp;
+        nrElems--;
+        if nrElems < capElems / 2 && capElems != 1 then:
+            resize(0, 0);
+        end-if
+        while nrPos < capPos / 2 && capPos != 1 execute:
+            resize(0, 1);
+        end-while
+        return true
+    end-if
+end-sub_algorithm
